@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9d31583-59ee-4730-873a-8e91bf1a6ebe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Calculadora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/calc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/calc/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/calc/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/calc/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/calc/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/calc/templates/calculadora_cuadratica.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/calc/templates/calculator.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/calc/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/calc/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/calc/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/calculator/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/calculator/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/calculator/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/calculator/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/calculator/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/manage.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Mh7mzF0O2tLbhJGaezsMqKV3Df" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9d31583-59ee-4730-873a-8e91bf1a6ebe" name="Changes" comment="" />
+      <created>1678208122975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678208122975</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
